@@ -7,7 +7,6 @@ scipy
 scikit-image
 kornia
 einops
-libgl1-mesa-glx
 
 tqdm
 prettytable
