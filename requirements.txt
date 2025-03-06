@@ -4,7 +4,8 @@ torch==2.0.1
 torchvision==0.15.2
 torchaudio==2.0.2
 nest-asyncio>=1.5.6
-
+numpy<2
+pybind11>=2.12
 
 numpy
 opencv-python
